@@ -15,4 +15,3 @@ aws s3 cp MXvideos.csv s3://dataengineering-onyoutube-raw-useast1-dev/youtube/ra
 aws s3 cp RUvideos.csv s3://dataengineering-onyoutube-raw-useast1-dev/youtube/raw_statistics/region=ru/
 aws s3 cp USvideos.csv s3://dataengineering-onyoutube-raw-useast1-dev/youtube/raw_statistics/region=us/
 
-
